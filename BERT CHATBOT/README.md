@@ -57,7 +57,7 @@ Otherwise, it politely says it doesn’t have an answer.
 
 # 🖼️ Demo Screenshot
 
-("C:\Users\Prachi\Pictures\Screenshots\BERT CHATBOT.png")
+("<img width="1348" height="817" alt="BERT CHATBOT" src="https://github.com/user-attachments/assets/f94539e9-550e-4163-8883-ef6fc04f9488" />")
 
 
 # 💡 Example Questions

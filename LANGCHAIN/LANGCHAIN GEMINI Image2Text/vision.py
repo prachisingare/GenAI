@@ -5,7 +5,7 @@ import textwrap
 from PIL import Image
 
 import os
-os.environ['GEMINI_API_KEY'] = 'AIzaSyCBHhZSK4Yrw7RZMqKqrApqGEJFRmaJCtI'
+os.environ['GEMINI_API_KEY'] = 'Enter Gemini Key'
 
 import google.generativeai as genai
 genai.configure(api_key=os.environ['GEMINI_API_KEY'])
@@ -44,3 +44,4 @@ if submit:
     response=get_gemini_response(input,image)
     st.subheader("The Response is")
     st.write(response)
+
